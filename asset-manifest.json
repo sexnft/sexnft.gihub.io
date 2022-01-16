@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.7d3c5af5.chunk.css",
-    "main.js": "/static/js/main.3028bfd6.chunk.js",
-    "main.js.map": "/static/js/main.3028bfd6.chunk.js.map",
+    "main.css": "/static/css/main.503f3589.chunk.css",
+    "main.js": "/static/js/main.09e84618.chunk.js",
+    "main.js.map": "/static/js/main.09e84618.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.da763c6c.js",
     "runtime-main.js.map": "/static/js/runtime-main.da763c6c.js.map",
-    "static/css/2.074d7999.chunk.css": "/static/css/2.074d7999.chunk.css",
-    "static/js/2.e5fa9e25.chunk.js": "/static/js/2.e5fa9e25.chunk.js",
-    "static/js/2.e5fa9e25.chunk.js.map": "/static/js/2.e5fa9e25.chunk.js.map",
+    "static/css/2.1c3ae398.chunk.css": "/static/css/2.1c3ae398.chunk.css",
+    "static/js/2.668382b3.chunk.js": "/static/js/2.668382b3.chunk.js",
+    "static/js/2.668382b3.chunk.js.map": "/static/js/2.668382b3.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.074d7999.chunk.css.map": "/static/css/2.074d7999.chunk.css.map",
-    "static/css/main.7d3c5af5.chunk.css.map": "/static/css/main.7d3c5af5.chunk.css.map",
-    "static/js/2.e5fa9e25.chunk.js.LICENSE.txt": "/static/js/2.e5fa9e25.chunk.js.LICENSE.txt",
+    "static/css/2.1c3ae398.chunk.css.map": "/static/css/2.1c3ae398.chunk.css.map",
+    "static/css/main.503f3589.chunk.css.map": "/static/css/main.503f3589.chunk.css.map",
+    "static/js/2.668382b3.chunk.js.LICENSE.txt": "/static/js/2.668382b3.chunk.js.LICENSE.txt",
     "static/media/1.02572875.png": "/static/media/1.02572875.png",
     "static/media/1.c70ca2af.png": "/static/media/1.c70ca2af.png",
     "static/media/1.cb4d3368.png": "/static/media/1.cb4d3368.png",
@@ -138,8 +138,6 @@
     "static/media/secondDrop4.0bf622c1.png": "/static/media/secondDrop4.0bf622c1.png",
     "static/media/secondDrop5.febe1a8f.png": "/static/media/secondDrop5.febe1a8f.png",
     "static/media/secondDrop6.c977b300.png": "/static/media/secondDrop6.c977b300.png",
-    "static/media/shop-description-bg-mobile.ea6a07e7.png": "/static/media/shop-description-bg-mobile.ea6a07e7.png",
-    "static/media/shop-description-bg.7afe6886.png": "/static/media/shop-description-bg.7afe6886.png",
     "static/media/sl1.0f3c3de9.png": "/static/media/sl1.0f3c3de9.png",
     "static/media/sl10.8208a2cb.png": "/static/media/sl10.8208a2cb.png",
     "static/media/sl11.debc657f.png": "/static/media/sl11.debc657f.png",
@@ -160,9 +158,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.da763c6c.js",
-    "static/css/2.074d7999.chunk.css",
-    "static/js/2.e5fa9e25.chunk.js",
-    "static/css/main.7d3c5af5.chunk.css",
-    "static/js/main.3028bfd6.chunk.js"
+    "static/css/2.1c3ae398.chunk.css",
+    "static/js/2.668382b3.chunk.js",
+    "static/css/main.503f3589.chunk.css",
+    "static/js/main.09e84618.chunk.js"
   ]
 }
