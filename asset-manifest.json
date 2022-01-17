@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.503f3589.chunk.css",
-    "main.js": "/static/js/main.09e84618.chunk.js",
-    "main.js.map": "/static/js/main.09e84618.chunk.js.map",
+    "main.css": "/static/css/main.f4484f5f.chunk.css",
+    "main.js": "/static/js/main.a5acbe27.chunk.js",
+    "main.js.map": "/static/js/main.a5acbe27.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.da763c6c.js",
     "runtime-main.js.map": "/static/js/runtime-main.da763c6c.js.map",
     "static/css/2.1c3ae398.chunk.css": "/static/css/2.1c3ae398.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.668382b3.chunk.js.map": "/static/js/2.668382b3.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.1c3ae398.chunk.css.map": "/static/css/2.1c3ae398.chunk.css.map",
-    "static/css/main.503f3589.chunk.css.map": "/static/css/main.503f3589.chunk.css.map",
+    "static/css/main.f4484f5f.chunk.css.map": "/static/css/main.f4484f5f.chunk.css.map",
     "static/js/2.668382b3.chunk.js.LICENSE.txt": "/static/js/2.668382b3.chunk.js.LICENSE.txt",
     "static/media/1.02572875.png": "/static/media/1.02572875.png",
     "static/media/1.c70ca2af.png": "/static/media/1.c70ca2af.png",
@@ -99,6 +99,7 @@
     "static/media/boysperm3.f39a56ba.png": "/static/media/boysperm3.f39a56ba.png",
     "static/media/boyspermformula.0c6be78a.png": "/static/media/boyspermformula.0c6be78a.png",
     "static/media/close-icon.33064bba.svg": "/static/media/close-icon.33064bba.svg",
+    "static/media/styles.scss": "/static/media/sliderPrevButton.5d520b39.svg",
     "static/media/discord-icon.18b23aad.svg": "/static/media/discord-icon.18b23aad.svg",
     "static/media/expand-icon.d32f3154.svg": "/static/media/expand-icon.d32f3154.svg",
     "static/media/footer-bg.8db9531c.png": "/static/media/footer-bg.8db9531c.png",
@@ -111,7 +112,6 @@
     "static/media/hero1.df824b2d.png": "/static/media/hero1.df824b2d.png",
     "static/media/hero2.f55d216e.png": "/static/media/hero2.f55d216e.png",
     "static/media/hero3.3a512649.png": "/static/media/hero3.3a512649.png",
-    "static/media/styles.scss": "/static/media/sliderPrevButton.5d520b39.svg",
     "static/media/lightgallery.css": "/static/media/lg.adb7aeef.svg",
     "static/media/menu-close-icon.eacaed4b.svg": "/static/media/menu-close-icon.eacaed4b.svg",
     "static/media/menu-icon.d610bf4c.svg": "/static/media/menu-icon.d610bf4c.svg",
@@ -160,7 +160,7 @@
     "static/js/runtime-main.da763c6c.js",
     "static/css/2.1c3ae398.chunk.css",
     "static/js/2.668382b3.chunk.js",
-    "static/css/main.503f3589.chunk.css",
-    "static/js/main.09e84618.chunk.js"
+    "static/css/main.f4484f5f.chunk.css",
+    "static/js/main.a5acbe27.chunk.js"
   ]
 }
