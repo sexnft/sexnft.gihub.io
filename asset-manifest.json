@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.7838711c.chunk.css",
-    "main.js": "/static/js/main.800bd318.chunk.js",
-    "main.js.map": "/static/js/main.800bd318.chunk.js.map",
+    "main.css": "/static/css/main.b9b81265.chunk.css",
+    "main.js": "/static/js/main.5c46ab03.chunk.js",
+    "main.js.map": "/static/js/main.5c46ab03.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.da763c6c.js",
     "runtime-main.js.map": "/static/js/runtime-main.da763c6c.js.map",
-    "static/css/2.074d7999.chunk.css": "/static/css/2.074d7999.chunk.css",
-    "static/js/2.4aeabff3.chunk.js": "/static/js/2.4aeabff3.chunk.js",
-    "static/js/2.4aeabff3.chunk.js.map": "/static/js/2.4aeabff3.chunk.js.map",
+    "static/css/2.d54f12df.chunk.css": "/static/css/2.d54f12df.chunk.css",
+    "static/js/2.3824dbf4.chunk.js": "/static/js/2.3824dbf4.chunk.js",
+    "static/js/2.3824dbf4.chunk.js.map": "/static/js/2.3824dbf4.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.074d7999.chunk.css.map": "/static/css/2.074d7999.chunk.css.map",
-    "static/css/main.7838711c.chunk.css.map": "/static/css/main.7838711c.chunk.css.map",
-    "static/js/2.4aeabff3.chunk.js.LICENSE.txt": "/static/js/2.4aeabff3.chunk.js.LICENSE.txt",
+    "static/css/2.d54f12df.chunk.css.map": "/static/css/2.d54f12df.chunk.css.map",
+    "static/css/main.b9b81265.chunk.css.map": "/static/css/main.b9b81265.chunk.css.map",
+    "static/js/2.3824dbf4.chunk.js.LICENSE.txt": "/static/js/2.3824dbf4.chunk.js.LICENSE.txt",
     "static/media/1.45b27898.png": "/static/media/1.45b27898.png",
     "static/media/1.883bdc1d.png": "/static/media/1.883bdc1d.png",
     "static/media/1.88b8eb3a.png": "/static/media/1.88b8eb3a.png",
@@ -119,6 +119,7 @@
     "static/media/hero1.df824b2d.png": "/static/media/hero1.df824b2d.png",
     "static/media/hero2.f55d216e.png": "/static/media/hero2.f55d216e.png",
     "static/media/hero3.3a512649.png": "/static/media/hero3.3a512649.png",
+    "static/media/instagram-icon.b25ecac6.svg": "/static/media/instagram-icon.b25ecac6.svg",
     "static/media/lightgallery.css": "/static/media/lg.adb7aeef.svg",
     "static/media/menu-close-icon.eacaed4b.svg": "/static/media/menu-close-icon.eacaed4b.svg",
     "static/media/menu-icon.d610bf4c.svg": "/static/media/menu-icon.d610bf4c.svg",
@@ -159,16 +160,19 @@
     "static/media/sl9.7f648f38.png": "/static/media/sl9.7f648f38.png",
     "static/media/soundOffIcon.1098610d.svg": "/static/media/soundOffIcon.1098610d.svg",
     "static/media/soundOnIcon.e33886b3.svg": "/static/media/soundOnIcon.e33886b3.svg",
+    "static/media/soundcloud-icon.6fe9d3b0.svg": "/static/media/soundcloud-icon.6fe9d3b0.svg",
     "static/media/tooltip1.1e15802e.png": "/static/media/tooltip1.1e15802e.png",
     "static/media/tooltip2.3a1db3be.png": "/static/media/tooltip2.3a1db3be.png",
     "static/media/total-giveaway-content-mobile.0e9226df.png": "/static/media/total-giveaway-content-mobile.0e9226df.png",
-    "static/media/twitter-icon.7dece00a.svg": "/static/media/twitter-icon.7dece00a.svg"
+    "static/media/twitter-icon.4da5e1fb.svg": "/static/media/twitter-icon.4da5e1fb.svg",
+    "static/media/twitter-icon.7dece00a.svg": "/static/media/twitter-icon.7dece00a.svg",
+    "static/media/youtube-icon.663e8b18.svg": "/static/media/youtube-icon.663e8b18.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.da763c6c.js",
-    "static/css/2.074d7999.chunk.css",
-    "static/js/2.4aeabff3.chunk.js",
-    "static/css/main.7838711c.chunk.css",
-    "static/js/main.800bd318.chunk.js"
+    "static/css/2.d54f12df.chunk.css",
+    "static/js/2.3824dbf4.chunk.js",
+    "static/css/main.b9b81265.chunk.css",
+    "static/js/main.5c46ab03.chunk.js"
   ]
 }
